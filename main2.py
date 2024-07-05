@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-st.title("News research tool 📈")
+st.title("News Articles ChatBOT 📈")
 st.sidebar.title("News article URLs")
 
 urls= []
